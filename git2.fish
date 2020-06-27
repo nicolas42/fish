@@ -5,7 +5,7 @@ function git2
   git add .
   git status
   git commit -m $argv
-  # git push
+  git push
  end
 end
 
